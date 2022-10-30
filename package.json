@@ -1,0 +1,23 @@
+{
+  "name": "7-1-sass-architecture",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prasadmadu/7-1-Sass-Architecture.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prasadmadu/7-1-Sass-Architecture/issues"
+  },
+  "homepage": "https://github.com/prasadmadu/7-1-Sass-Architecture#readme",
+  "dependencies": {
+    "bootstrap": "^4.6.2",
+    "node-sass": "^7.0.3"
+  }
+}
